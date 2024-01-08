@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/bisht/OneDrive/Desktop/mlflow_exp/mlruns/0/a886f6af8fcb4a2b94f9a49f810050dc/artifacts
+end_time: 1704539901454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a886f6af8fcb4a2b94f9a49f810050dc
+run_name: amazing-shrew-895
+run_uuid: a886f6af8fcb4a2b94f9a49f810050dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704539898929
+status: 3
+tags: []
+user_id: bisht

@@ -1,1 +1,15 @@
 # mlflow_ops
+
+## for Dagshub:
+MLFLOW_TRAKING_URI=
+MLFLOW_TRAKING_USERNAME=
+MLFLOW_TRAKING_PASSWORD=
+python script.py    
+
+'''bash 
+
+export MLFLOW_TRAKING_URI=
+export MLFLOW_TRAKING_USERNAME=
+export MLFLOW_TRAKING_PASSWORD=
+
+'''

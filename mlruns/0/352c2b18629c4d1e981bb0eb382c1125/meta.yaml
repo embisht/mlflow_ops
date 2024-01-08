@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/bisht/OneDrive/Desktop/mlflow_exp/mlruns/0/352c2b18629c4d1e981bb0eb382c1125/artifacts
+end_time: 1704540231595
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 352c2b18629c4d1e981bb0eb382c1125
+run_name: adventurous-tern-170
+run_uuid: 352c2b18629c4d1e981bb0eb382c1125
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704540228875
+status: 3
+tags: []
+user_id: bisht

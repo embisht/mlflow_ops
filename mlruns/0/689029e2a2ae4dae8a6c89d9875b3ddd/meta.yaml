@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/bisht/OneDrive/Desktop/mlflow_exp/mlruns/0/689029e2a2ae4dae8a6c89d9875b3ddd/artifacts
+end_time: 1704540482127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 689029e2a2ae4dae8a6c89d9875b3ddd
+run_name: nervous-hen-736
+run_uuid: 689029e2a2ae4dae8a6c89d9875b3ddd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704540479920
+status: 3
+tags: []
+user_id: bisht
